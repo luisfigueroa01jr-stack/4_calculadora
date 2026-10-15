@@ -12,6 +12,7 @@ int main() {
     std::cout << "sumar(5, 3, 2)   = " << calc.sumar(5, 3, 2) << std::endl;
     std::cout << "sumar(2.5, 3.75) = " << calc.sumar(2.5, 3.75) << std::endl;
     std::cout << "sumar(5, 3.5)    = " << calc.sumar(5, 3.5) << std::endl;
+    std::cout << "sumar(1.5, 2.25, 3.0) = " << calc.sumar(1.5, 2.25, 3.0) << std::endl;
 
     return 0;
 }
